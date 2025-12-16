@@ -23,6 +23,12 @@ Dark, vibrant theme inspired by [Twilite Theme](https://github.com/vegcom/Twilit
 
 For the darker variant: Use `twilite-darker-tmux.conf`.
 
+
+```shell
+wget -O ~/.tmux.conf https://raw.githubusercontent.com/vegcom/Tmux-Twilite/main/twilite-tmux.conf
+
+```
+
 ## Colors
 Matches [twilite.json](https://raw.githubusercontent.com/vegcom/Twilite-Theme/refs/heads/main/twilite.json) / [twilite-darker.json](https://raw.githubusercontent.com/vegcom/Twilite-Theme/refs/heads/main/twilite-darker.json) palette. Full hex mapping:
 - background: #18152a / #141025
@@ -36,5 +42,6 @@ Matches [twilite.json](https://raw.githubusercontent.com/vegcom/Twilite-Theme/re
 ## Related
 - VSCode: [Twilite theme](link if exists).
 - Preview script? (if you have generate_previews.py)
+
 
 MIT License. PRs welcome!
