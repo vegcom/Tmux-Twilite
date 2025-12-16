@@ -31,8 +31,6 @@ wget -O ~/.tmux.conf https://raw.githubusercontent.com/vegcom/Tmux-Twilite/main/
 
 ### Optional features
 
-#### Tmux Plugin Manager 
-
 [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm)
 
 ```shell
@@ -56,4 +54,5 @@ Matches [twilite.json](https://raw.githubusercontent.com/vegcom/Twilite-Theme/re
 
 
 MIT License. PRs welcome!
+
 
